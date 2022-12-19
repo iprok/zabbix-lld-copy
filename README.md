@@ -1,3 +1,5 @@
+## Script for copying low level discovery rules (LLD Discovery) in Zabbix
+
 The simplest possible script which uses [discoveryrule.copy](https://www.zabbix.com/documentation/6.0/en/manual/api/reference/discoveryrule/copy) API call. 
 
 All configuration should be done by editing script sources. 
